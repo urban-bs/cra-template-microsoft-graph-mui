@@ -5,7 +5,7 @@ import { styled } from '@mui/system';
 
 function checkEnv(): boolean {
   return process.env.REACT_APP_AAD_CLIENT_ID !== undefined &&
-    process.env.REACT_APP_AAD_HOST !== undefined &&
+    process.env.REACT_APP_HOST !== undefined &&
     process.env.REACT_APP_AAD_TENANT_ID !== undefined
 }
 
