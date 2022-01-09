@@ -1,6 +1,6 @@
 {
   "name": "cra-template-microsoft-graph-mui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [
     "react",
     "create-react-app",
@@ -9,6 +9,10 @@
     "microsoft graph",
     "mui"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/urban-bs/cra-template-microsoft-graph-mui.git"
+  },
   "license": "MIT",
   "description": "Microsoft Graph SPA template for Create React App using typescript and MUI"
 }
