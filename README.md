@@ -2,7 +2,7 @@
 
 This project is [Create React App](https://github.com/facebook/create-react-app) template for 
 building SPA which utilize [Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview) and 
-[MUA](https://mui.com/).
+[MUI](https://mui.com/).
 
 ## Prerequisites
 
